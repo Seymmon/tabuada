@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: gray;
+    color: white;
+}
+
+#container{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+#tabuada{
+    background: #DCCBC7;
+    color: black;
+    padding: 20px;
+    margin: 25px auto;
+    width: 250px;
+}
+
+.listaTabuada{
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2em;
+}
+#number{
+    width: 50px;
+    text-align: center;
+}
+
+.multiplicacao{
+    border: 1px solid red;
+}
+
